@@ -5,7 +5,7 @@ This program creates x number of random password(s) with user defined length.
 ## Installation/Prerequisite
 
 ```bash
-1. You will need header file for random password generator.
+1. You will need header file for random number generation function.
 ```
 
 ## Program Description
