@@ -2,6 +2,10 @@
 
 This program creates x number of random password(s) with user defined length.
 
+## Concept Focus
+```bash
+- This program focuses on how to work with different files (including different extensions like .config) and random numbers.
+```
 ## Installation/Prerequisite
 
 ```bash
