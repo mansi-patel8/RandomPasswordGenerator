@@ -6,6 +6,7 @@ This program creates x number of random password(s) with user defined length.
 
 ```bash
 1. You will need header file for random number generation function.
+2. YOu will need alphabet.config file random password options.
 ```
 
 ## Program Description
